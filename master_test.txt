@@ -1,0 +1,603 @@
+QUESTIONS:
+  1. I see myself as someone who’s talkative
+     1. Strongly Disagree
+     2. Disagree a little
+     3. Neither agree nor disagree
+     4. Agree a little
+     5. Strongly Agree
+  2. At a party do you:
+     a. Interact with many, including strangers
+     b. Interact with a few, known to you
+  3. Are you more:
+     a. Realistic than speculative
+     b. Speculative than realistic
+  4. I see myself as someone who tends to find fault with others
+     1. Strongly Disagree
+     2. Disagree a little
+     3. Neither agree nor disagree
+     4. Agree a little
+     5. Strongly Agree
+  5. Please choose one that best describes you
+     a. I like to receive notes of
+        affirmation from you.
+     e. I like it when you hug me.
+  6. How well does your partner meet your needs?
+     1. Extremely Poor
+     2. Poor
+     3. Average
+     4. Well
+     5. Extremely Well
+7. Please choose one that best describes you
+    b. I like to spend one‐on‐one time with you.
+    d. I feel loved when you give me practical help.
+8. Is it worse to:
+    a. Have your “head in the clouds”
+    b. Be “in a rut”
+9. Are you more impressed by:
+    a. Principles
+    b. Emotions
+10. In general, how satisfied are you with your relationship?
+    1. Extremely Poor
+    2. Poor
+    3. Average
+    4. Well
+    5. Extremely Well
+11. Please choose one that best describes you
+    c. I like it when you give me gifts.
+    b. I like taking long walks with you.
+12. Are more drawn toward the:
+    a. Convincing
+    b. Touching
+13. I see myself as someone who does a thorough job
+    1. Strongly Disagree
+    2. Disagree a little
+    3. Neither agree nor disagree
+    4. Agree a little
+    5. Strongly Agree
+14. Please choose one that best describes you
+    d. I feel loved when you do things to
+       help me
+    e. I feel loved when you hug or touch
+       me.
+15. I see myself as someone who is depressed, blue
+    1. Strongly Disagree
+    2. Disagree a little
+    3. Neither agree nor disagree
+    4. Agree a little
+    5. Strongly Agree
+16. I see myself as someone who is original, comes up with new ideas
+    1. Strongly Disagree
+    2. Disagree a little
+    3. Neither agree nor disagree
+    4. Agree a little
+    5. Strongly Agree
+17. I see myself as someone who is reserved
+    1. Strongly Disagree
+    2. Disagree a little
+    3. Neither agree nor disagree
+    4. Agree a little
+    5. Strongly Agree
+18. Please choose one that best describes you
+    e. I feel loved when you hold me in
+    your arms.
+    c. I feel loved when I receive a gift from you.
+19. Do you prefer to work:
+    a. To deadlines
+    b. Just “whenever”
+20. Please choose one that best describes you
+    b. I like to go places with you.
+    e. I like to hold hands with you.
+21. I see myself as someone who is helpful and unselfish with others
+    1. Strongly Disagree
+    2. Disagree a little
+    3. Neither agree nor disagree
+    4. Agree a little
+    5. Strongly Agree
+22. How good is your relationship compared to most?
+    1. Extremely Poor
+    2. Poor
+    3. Average
+    4. Well
+    5. Extremely Well
+23. Please choose one that best describes you
+    a. I feel loved when you acknowledge me
+    c. Visible symbols of love (gifts) are very important to me.
+24. How often do you wish you hadn’t gotten in this relationship?
+    1. Extremely Poor
+    2. Poor
+    3. Average
+    4. Well
+    5. Extremely Well
+25. Do you tend to choose:
+    a. Rather carefully
+    b. Somewhat impulsively
+26. To what extent has your relationship met your original expectations:
+    1. Hardly at all
+    2. No
+    3. Average
+    4. Somewhat completely
+    5. Completely
+27. How much do you love your partner?
+    1. I don’t love him
+    2. Not much
+    3. Average
+    4. I love him/her
+    5. I love him/her very much!
+28. I see myself as someone who can be somewhat careless
+    1. Strongly Disagree
+    2. Disagree a little
+    3. Neither agree nor disagree
+    4. Agree a little
+    5. Strongly Agree
+29. At parties do you:
+    a. Stay late, with increasing energy
+    b. Leave early with decreased energy
+30. Are you more attracted to:
+    a. Sensible people
+    b. Imaginative people
+31. How many problems are there in your relationship?
+    1.Very Few
+    2. Few
+    3. Average
+    4. Many
+    5. Very many
+32. c is relaxed, handles stress well
+    1. Strongly Disagree
+    2. Disagree a little
+    3. Neither agree nor disagree
+    4. Agree a little
+    5. Strongly Agree
+33. Please choose one that best describes you
+    e. I like to sit close to you.
+    a. I like it when you tell me that I am attractive
+34. Please choose one that best describes you
+    b. I like to spend time with you.
+    c. I like to receive little gifts from you.
+35. Are you more interested in:
+    a. What is actual
+    b. What is possible
+36. Please choose one that best describes you
+    d. I know you love me when you help me.
+    a. Your words of acceptance are important to me.
+37. Please choose one that best describes you
+    b. I like to be together when we do things.
+    a. I like the kind words you say to me
+38. I see myself as someone who is curious about many different things
+    1. Strongly Disagree
+    2. Disagree a little
+    3. Neither agree nor disagree
+    4. Agree a little
+    5. Strongly Agree
+39. I see myself as someone who is full of energy
+    1. Strongly Disagree
+    2. Disagree a little
+    3. Neither agree nor disagree
+    4. Agree a little
+    5. Strongly Agree
+40. In judging others are you more swayed by:
+    a. Laws than circumstances
+    b. Circumstances than laws
+41. In approaching others is your inclination to be somewhat:
+    a. Objective
+    b. Personal
+42. Please choose one that best describes you
+    e. I feel whole when we hug.
+    d. What you do affects me more than what you say.
+43. Are you more:
+    a. Punctual
+    b. Leisurely
+44. Please choose one that best describes you
+    a. I value your praise and try to avoid your criticism.
+    c. Several inexpensive gifts mean more to me than one large expensive gift.
+45. Please choose one that best describes you
+    e. I feel closer to you when you touch me.
+    b. I feel close when we are talking or doing something together.
+46. I see myself as someone who starts quarrels with others
+    1. Strongly Disagree
+    2. Disagree a little
+    3. Neither agree nor disagree
+    4. Agree a little
+    5. Strongly Agree
+47. I see myself as someone who is a reliable worker
+    1. Strongly Disagree
+    2. Disagree a little
+    3. Neither agree nor disagree
+    4. Agree a little
+    5. Strongly Agree
+48. I see myself as someone who can be tense
+    1. Strongly Disagree
+    2. Disagree a little
+    3. Neither agree nor disagree
+    4. Agree a little
+    5. Strongly Agree
+49. I see myself as someone who is ingenious, a deep thinker
+    1. Strongly Disagree
+    2. Disagree a little
+    3. Neither agree nor disagree
+    4. Agree a little
+    5. Strongly Agree
+50. I see myself as someone who generates a lot of enthusiasm
+    1. Strongly Disagree
+    2. Disagree a little
+    3. Neither agree nor disagree
+    4. Agree a little
+    5. Strongly Agree
+51. Please choose one that best describes you
+    a. I like you to compliment my achievements.
+    d. I know you love me when you do things for me that you don’t enjoy doing.
+52. Does it bother you more having things:
+    a. Incomplete
+    b. Completed
+53. I see myself as someone who has a forgiving nature
+    1. Strongly Disagree
+    2. Disagree a little
+    3. Neither agree nor disagree
+    4. Agree a little
+    5. Strongly Agree
+54. I see myself as someone who tends to be disorganized
+    1. Strongly Disagree
+    2. Disagree a little
+    3. Neither agree nor disagree
+    4. Agree a little
+    5. Strongly Agree
+55. Please choose one that best describes you
+    e. I like for you to touch me when you walk by.
+    b. I like when you listen to me sympathetically.
+56. I see myself as someone who worries a lot
+    1. Strongly Disagree
+    2. Disagree a little
+    3. Neither agree nor disagree
+    4. Agree a little
+    5. Strongly Agree
+57. Please choose one that best describes you
+    c. I really enjoy receiving gifts from you.
+    d. I feel loved when you help me with my home projects.
+58. Please choose one that best describes you
+    a. I like when you compliment my appearance.
+    b. I feel loved when you take the time to understand my feelings.
+59. Please choose one that best describes you
+    e. I feel secure when you are touching me
+    d. Your acts of service make me feel loved.
+ 60. In your social groups do you:
+    a. Keep abreast of other’s happenings
+    b. Get behind on the news
+ 61. Please choose one that best describes you
+    d. I appreciate the many things you do for me
+    c. I like receiving gifts that you make.
+ 62. In doing ordinary things are you more likely to:
+    a. Do it the usual way
+    b. Do it your own way
+ 63. Writers should:
+    a. “Say what they mean and mean what they say”
+    b. Express things more by use of analogy
+ 64. Please choose one that best describes you
+    b. I really enjoy the feeling I get when you give me your undivided attention.
+    d. I really enjoy the feeling I get when you do some act of service for me.
+ 65. Which appeals to you more:
+    a. Consistency of thought
+    b. Harmonious human relationships
+ 66. I see myself as someone who has an active imagination
+    1. Strongly Disagree
+    2. Disagree a little
+    3. Neither agree nor disagree
+    4. Agree a little
+    5. Strongly Agree
+67. Are you more comfortable in making:
+   a. Logical judgments
+   b. Value judgments
+68. Do you want things:
+   a. Settled and decided
+   b. Unsettled and undecided
+69. Would you say you are more:
+   a. Serious and determined
+    b. Easy-going
+70. Please choose one that best describes you
+   b. I really enjoy the feeling I get when you give me your undivided attention.
+   d. I really enjoy the feeling I get when you do some act of service for me.
+71. I see myself as someone who tends to be quiet
+  1. Strongly Disagree
+   2. Disagree a little
+   3. Neither agree nor disagree
+   4. Agree a little
+   5. Strongly Agree
+72. In phoning do you:
+   a. Rarely question that it will all be said
+   b. Rehearse what you’ll say
+73. I see myself as someone who is generally trusting
+  1. Strongly Disagree
+   2. Disagree a little
+   3. Neither agree nor disagree
+   4. Agree a little
+   5. Strongly Agree
+74. Please choose one that best describes you
+   c. I feel loved when you celebrate my birthday with a gift.
+   a. I feel loved when you celebrate my birthday with meaningful words (written or
+       spoken.)
+75. I see myself as someone who tends to be lazy
+  1. Strongly Disagree
+  2. Disagree a little
+  3. Neither agree nor disagree
+  4. Agree a little
+  5. Strongly Agree
+76. Please choose one that best describes you
+  d. I feel loved when you help me out with my chores.
+  c. I know you are thinking of me when you give me a gift.
+77. I see myself as someone who is emotionally stable, not easily upset
+  1. Strongly Disagree
+  2. Disagree a little
+  3. Neither agree nor disagree
+  4. Agree a little
+  5. Strongly Agree
+78. Facts:
+  a. “Speak for themselves”
+  b. Illustrate principles
+79. Please choose one that best describes you
+  c. I appreciate it when you remember special days with a gift.
+  b. I appreciate it when you listen patiently and don’t interrupt me.
+80. Are visionaries:
+  a. somewhat annoying
+  b. rather fascinating
+81. Are you more often:
+  a. a cool-headed person
+  b. a warm-hearted person
+82. Please choose one that best describes you
+  b. I enjoy extended trips with you.
+  d. I like to know that you are concerned enough to help me with my daily task.
+83. Is it worse to be:
+  a. Unjust
+  b. Merciless
+84. Please choose one that best describes you
+  e. Kissing me unexpectedly makes me feel loved.
+  c. Giving me a gift for no occasion makes me feel loved.
+85. Should one usually let events occur:
+  a. by careful selection and choice
+  b. randomly and by chance
+86. Do you feel better about:
+  a. having purchased
+  b. having the option to buy
+87. Please choose one that best describes you
+  a. I like to be told that you appreciate me.
+  b. I like for you to look at me when we are talking.
+88. I see myself as someone who is inventive
+  1. Strongly Disagree
+  2. Disagree a little
+  3. Neither agree nor disagree
+  4. Agree a little
+  5. Strongly Agree
+89. Please choose one that best describes you
+  c. Your gifts are always special to me.
+  e. I feel loved when you kiss me.
+90. Please choose one that best describes you
+  a. I feel loved when you tell me how much you appreciate me.
+  d. I feel loved when you enthusiastically do a task I have requested.
+91. Please choose one that best describes you
+  e. I need to be hugged by you every day.
+  a. I need your words of affirmation daily.
+92. In company do you:
+  a. initiate conversation
+  b. wait to be approached
+93. Common sense is:
+  a. rarely questionable
+  b. frequently questionable
+94. Children often do not:
+  a. make themselves useful enough
+  b. exercise their fantasy enough
+95. In making decisions do you feel more comfortable with:
+  a. standards
+  b. feelings
+96. I see myself as someone who has an assertive personality
+  1. Strongly Disagree
+  2. Disagree a little
+  3. Neither agree nor disagree
+  4. Agree a little
+  5. Strongly Agree
+97. I see myself as someone who can be cold and aloof
+  1. Strongly Disagree
+  2. Disagree a little
+  3. Neither agree nor disagree
+  4. Agree a little
+  5. Strongly Agree
+98. Are you more:
+  a. firm than gentle
+  b. gentle than firm
+99. Which is more admirable:
+  a. the ability to organize and be methodical
+  b. the ability to adapt and make do
+100. Do you put more value on:
+  a. infinite
+  b. Open-minded
+101. Does new and non-routine interaction with others:
+  a. stimulate and energize you
+  b. tax your reserves
+102. I see myself as someone who perseveres until the task is finished
+  1. Strongly Disagree
+  2. Disagree a little
+  3. Neither agree nor disagree
+  4. Agree a little
+  5. Strongly Agree
+103. I see myself as someone who can be moody
+  1. Strongly Disagree
+  2. Disagree a little
+  3. Neither agree nor disagree
+  4. Agree a little
+  5. Strongly Agree
+104. Are you more frequently:
+  a. a practical sort of person
+  b. a fanciful sort of person
+105. I see myself as someone who values artistic, aesthetic experiences
+  1. Strongly Disagree
+  2. Disagree a little
+  3. Neither agree nor disagree
+  4. Agree a little
+  5. Strongly Agree
+106. I see myself as someone who is sometimes shy, inhibited
+  1. Strongly Disagree
+  2. Disagree a little
+  3. Neither agree nor disagree
+  4. Agree a little
+  5. Strongly Agree
+ 107. Are you more likely to:
+  a. see how others are useful
+  b. see how others see
+ 108. I see myself as someone who is considerate and kind to almost everyone
+  1. Strongly Disagree
+  2. Disagree a little
+  3. Neither agree nor disagree
+  4. Agree a little
+5. Strongly Agree
+109. Which is more satisfying:
+a. to discuss an issue thoroughly
+b. to arrive at agreement on an issue
+110. Which rules you more:
+a. your head
+b. your heart
+111. I see myself as someone who does things efficiently.
+1. Strongly Disagree
+2. Disagree a little
+3. Neither agree nor disagree
+4. Agree a little
+112. I see myself as someone who remains calm in tense situations.
+1. Strongly Disagree
+2. Disagree a little
+3. Neither agree nor disagree
+4. Agree a little
+113. Are you more comfortable with work that is:
+a. Contracted
+b. Done on a casual basis
+114. Do you tend to look for:
+a. the orderly
+b. whatever turns up
+115. Do you prefer:
+a. many friends with brief contact
+b. a few friends with more lengthy contact
+116. Do you go more by:
+a. Facts
+b. Principles
+117. Are you more interested in:
+a. production and distribution
+b. design and research
+118. I see myself as someone who prefers work that is routine
+1. Strongly Disagree
+2. Disagree a little
+3. Neither agree nor disagree
+4. Agree a little
+119. Which is more of a compliment:
+a. “There is a very logical person.”
+b. “There is a very sentimental person.”
+120. I see myself as someone who is outgoing, sociable
+1. Strongly Disagree
+2. Disagree a little
+3. Neither agree nor disagree
+4. Agree a little
+121. I see myself as someone who is sometimes rude to others
+1. Strongly Disagree
+2. Disagree a little
+3. Neither agree nor disagree
+4. Agree a little
+122. I see myself as someone who makes plans and follows through with them
+1. Strongly Disagree
+2. Disagree a little
+3. Neither agree nor disagree
+4. Agree a little
+123. Do you value in yourself more that you are:
+a. Unwavering
+b. devoted
+124. Do you more often prefer the
+a. final and unalterable statement
+b. tentative and preliminary statement
+125. I see myself as someone who gets nervous easily
+1. Strongly Disagree
+2. Disagree a little
+3. Neither agree nor disagree
+4. Agree a little
+126. Are you more comfortable:
+a. after a decision
+b. before a decision
+127. I see myself as someone who likes to reflect, play with ideas
+1. Strongly Disagree
+2. Disagree a little
+3. Neither agree nor disagree
+4. Agree a little
+128. I see myself as someone who has few artistic interests
+1. Strongly Disagree
+2. Disagree a little
+3. Neither agree nor disagree
+4. Agree a little
+129. Do you:
+a. speak easily and at length with strangers
+b. find little to say to strangers
+130. I see myself as someone likes to cooperate with others
+1. Strongly Disagree
+2. Disagree a little
+3. Neither agree nor disagree
+4. Agree a little
+131. Are you more likely to trust your:
+a. Experience
+b. Hunch
+132. Do you feel:
+a. more practical than ingenious
+b. more ingenious than practical
+133. Which person is more to be complimented – one of:
+a. clear reason
+b. strong feeling
+134. Are you inclined more to be:
+a. fair-minded
+b. Sympathetic
+135. Is it preferable mostly to:
+a. make sure things are arranged
+b. just let things happen
+136. In relationships should most things be:
+a. re-negotiable
+b. random and circumstantial
+137. When the phone rings do you:
+a. hasten to get to it first
+b. hope someone else will answer
+138. Do you prize more in yourself:
+a. a strong sense of reality
+b. a vivid imagination
+139. I see myself as someone who is easily distracted
+1. Strongly Disagree
+2. Disagree a little
+3. Neither agree nor disagree
+4. Agree a little
+140. I see myself as someone who is sophisticated in art, music, or literature
+1. Strongly Disagree
+2. Disagree a little
+3. Neither agree nor disagree
+4. Agree a little
+141. Are you drawn more to:
+a. Fundamentals
+b. Overtones
+142. Which seems the greater error:
+a. to be too passionate
+b. to be too objective
+143. Do you see yourself as basically:
+a. Hard-headed
+b. soft-hearted
+144. Which situation appeals to you more:
+a. the structured and scheduled
+b. the unstructured and unscheduled
+145. Are you a person that is more:
+a. routinized than whimsical
+b. whimsical than routinized
+146. Are you more inclined to be:
+a. easy to approach
+b. somewhat reserved
+147. In writings do you prefer:
+a. the more literal
+b. the more figurative
+148. Is it harder for you to:
+a. identify with others
+b. utilize others
+149. Which do you wish more for yourself:
+a. clarity of reason
+b. strength of compassion
+150. Which is the greater fault:
+a. being indiscriminate
+b. being critical
+151. Do you prefer the:
+a. Planned event
+b. Unplanned event
+152. Do you tend to be more:
+a. deliberate than spontaneous
+b. spontaneous than deliberate
